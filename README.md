@@ -19,7 +19,7 @@
 
 
 <div align=center>
-![edoob9's github stats](https://github-readme-stats.vercel.app/api?username=edoob9&show_icons=true&theme=dark)
+//![edoob9's github stats](https://github-readme-stats.vercel.app/api?username=edoob9&show_icons=true&theme=dark)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://Mainpage.github.io/)](https://www.notion.so/edenl/CV-581ff34d0fd14c3daa06c979faf2205e?pvs=4)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/si-woo-lee-7a2030243/)](https://www.linkedin.com/in/si-woo-lee-7a2030243/) 
