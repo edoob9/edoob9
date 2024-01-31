@@ -15,7 +15,7 @@
 - MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
 - Automation car : SOA, SDV, ROS2
 - Operation Research
-- Leadership, Mentoring, Presentation
+- Leadership, Mentoring, [![Presentation](https://github.com/edoob9/edoob9/issues)
 
 
 <div align=center>
